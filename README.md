@@ -5,6 +5,39 @@
 
 • Optimized model performance by tuning hyperparameters with K-Fold Cross Validation using GridSearchCV
 
+### Results
+
+---
+#### Task A
+
+> Part 1 - Initial Feature Selection (No Hyperparameter Tuning)
+>
+> <img width="663" alt="Screenshot 2025-05-14 at 10 50 00 PM" src="https://github.com/user-attachments/assets/037fcd02-ec0b-4779-9c23-61e3c525893b" />
+>
+> Part 2 - Initial Feature Selection (Hyperparameter Tuning)
+>
+> <img width="590" alt="Screenshot 2025-05-14 at 10 52 31 PM" src="https://github.com/user-attachments/assets/3c66f9f3-5bbe-4f82-b79b-e612710b6a29" />
+>
+> Part 3 - With Feature Removal (Hyperparameter Tuning)
+>
+> <img width="602" alt="Screenshot 2025-05-14 at 10 53 14 PM" src="https://github.com/user-attachments/assets/84ebfa0f-8833-4989-ab38-09d78a8a4664" />
+
+#### Task B 
+
+> Part 1 - Initial Feature Selection (No Hyperparameter Tuning)
+> 
+> <img width="669" alt="Screenshot 2025-05-14 at 10 51 35 PM" src="https://github.com/user-attachments/assets/20910706-e32f-40ba-a26a-e098b1c8e891" />
+>
+> Part 2 - Initial Feature Selection (Hyperparameter Tuning)
+>
+> <img width="621" alt="Screenshot 2025-05-14 at 10 56 06 PM" src="https://github.com/user-attachments/assets/33f17640-02b4-4440-9f0c-632cf05f7177" />
+>
+> Part 3 - With Feature Removal (Hyperparameter Tuning)
+>
+> <img width="667" alt="Screenshot 2025-05-14 at 10 56 35 PM" src="https://github.com/user-attachments/assets/564446b4-6ab3-4bac-b53e-aa7a342d6cec" />
+
+---
+
 ### Project Setup
 
 ---
