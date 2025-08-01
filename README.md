@@ -1,9 +1,9 @@
 # MLB Hall of Fame Machine Learning Predictor
-• ML model using scikit-learn to determine most influential stats predicting a player’s HOF probability
+Hey there :) ! 
 
-• Leveraged pandas and matplotlib libraries to visualize results in decision trees and confusion matrices
+I created an ML model using scikit-learn to determine the stats most influential to a player's HOF probability. Optimized model performance by tuning hyperparameters with K-Fold Cross Validation using GridSearchCV. Leveraged pandas and matplotlib libraries to visualize model performance in decision trees and confusion matrices.
 
-• Optimized model performance by tuning hyperparameters with K-Fold Cross Validation using GridSearchCV
+Dataset graciously supplied by Sean Lahman baseball statistics data set: http://www.seanlahman.com. Data set comprises of 20+ tables, some with over 100k+ rows and 20+ coluimns. 
 
 ### Results
 
